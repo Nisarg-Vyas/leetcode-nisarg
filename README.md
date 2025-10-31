@@ -1,7 +1,7 @@
 # 🚀 LeetCode Progress Tracker
 
 This repository documents my LeetCode journey — problem by problem.
->> Note: This repo can have inconsistancies, as the creator of this repo is still in initial learning phase.
+> Note: This repo can have inconsistancies, as the creator of this repo is still in initial learning phase.
 
 ## 🎯 Goals
 1. Track progress and document solutions
