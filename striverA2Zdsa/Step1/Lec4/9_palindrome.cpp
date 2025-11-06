@@ -5,7 +5,7 @@
 //compare numbers from right end and left end together
 
 class Solution {
-public:
+public:w
     bool isPalindrome(int x) {
         if(x<0) return false;
         long long dup=0;
