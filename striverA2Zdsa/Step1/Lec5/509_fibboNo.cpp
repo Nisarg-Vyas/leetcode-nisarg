@@ -1,10 +1,9 @@
 /*
 Author: Nisarg Vyas
-Problem: 
 
 Status:
-- Brute Force: [ ]
-- Optimized:   [ ]
+- Brute Force: [1]
+- Optimized:   []
 
 Approach Notes:
 
