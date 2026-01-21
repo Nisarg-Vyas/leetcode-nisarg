@@ -30,7 +30,7 @@ For each problem:
 - notes will have different files, each consisting of my new learnings per week
 
 ## 🔗 References
-- [My LeetCode Profile](https://leetcode.com/YOURUSERNAME)
+- [My LeetCode Profile](https://leetcode.com/Nisarg_Vyas_20)
 - [Striver’s A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/)
 
 > Created: 03-09-2025  
