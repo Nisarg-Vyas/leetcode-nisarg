@@ -12,13 +12,14 @@ This repository documents my LeetCode journey — problem by problem.
 ## 📁 Structure
 | Folder | Description |
 |--------|--------------|
-| `templates` | Base code template |
+| `leetcodeBegginerGuide` | The LeetCode's Beginner's Guide from the Explore section of LeetCode |
+| `notes` | General conceptual notes |
 | `striverA2Zdsa` | Problems from Striver’s A2Z DSA course |
 | `topics` | Problems by topic (e.g., Arrays, Strings) |
-| `notes` | General conceptual notes |
-| `progress.md` | Weekly log of progress |
 | `readme.md` | Explaination of this repo |
+| `progress.md` | Weekly log of progress |
 
+> Only significant notes would be in the 'notes' folder, otherwise short notes will be in the code itself as comments.
 
 ## 🧠 Learning Style
 For each problem:
@@ -29,8 +30,8 @@ For each problem:
 - notes will have different files, each consisting of my new learnings per week
 
 ## 🔗 References
-- [Striver’s A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/)
 - [My LeetCode Profile](https://leetcode.com/YOURUSERNAME)
+- [Striver’s A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/)
 
 > Created: 03-09-2025  
-> Main modification: 31-10-2025
+> Last modification: 22-01-2026
