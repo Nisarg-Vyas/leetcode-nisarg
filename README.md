@@ -12,8 +12,9 @@ This repository documents my LeetCode journey — problem by problem.
 ## 📁 Structure
 | Folder | Description |
 |--------|--------------|
-| `leetcodeBegginerGuide` | The LeetCode's Beginner's Guide from the Explore section of LeetCode |
+| `leetcodeBeginnerGuide` | The LeetCode's Beginner's Guide from the Explore section of LeetCode |
 | `notes` | General conceptual notes |
+| `programmingSkills_StudyPlan` | The LeetCode's Study Plan - Programming Skills |
 | `striverA2Zdsa` | Problems from Striver’s A2Z DSA course |
 | `topics` | Problems by topic (e.g., Arrays, Strings) |
 | `readme.md` | Explaination of this repo |
