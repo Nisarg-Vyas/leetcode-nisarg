@@ -1,13 +1,14 @@
 # 🚀 LeetCode Progress Tracker
 
 This repository documents my LeetCode journey — problem by problem.
-> Note: This repo can have inconsistancies, as the creator of this repo is still in initial learning phase.
+> Note: This repo can have inconsistancies, as the creator(me) of this repo is still in initial learning phase.
 
 ## 🎯 Goals
 1. Track progress and document solutions
 2. Revise key patterns and concepts
 3. Practice Git & GitHub
 4. Follow Striver’s A2Z DSA Course
+5. Keep a documented approach too solve these problems so that I can refer them and notes whenever I want
 
 ## 📁 Structure
 | Folder | Description |
@@ -16,9 +17,8 @@ This repository documents my LeetCode journey — problem by problem.
 | `notes` | General conceptual notes |
 | `programmingSkills_StudyPlan` | The LeetCode's Study Plan - Programming Skills |
 | `striverA2Zdsa` | Problems from Striver’s A2Z DSA course |
-| `topics` | Problems by topic (e.g., Arrays, Strings) |
-| `readme.md` | Explaination of this repo |
-| `progress.md` | Weekly log of progress |
+| `random` | Ramdom problems solved from problems section |
+| `readme.md` | Info about this repo |
 
 > Only significant notes would be in the 'notes' folder, otherwise short notes will be in the code itself as comments.
 
@@ -35,4 +35,4 @@ For each problem:
 - [Striver’s A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/)
 
 > Created: 03-09-2025  
-> Last modification: 22-01-2026
+> Last modification: 08-04-2026
