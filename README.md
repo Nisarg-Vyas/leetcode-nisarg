@@ -18,6 +18,7 @@ This repository documents my LeetCode journey — problem by problem.
 | `programmingSkills_StudyPlan` | The LeetCode's Study Plan - Programming Skills |
 | `striverA2Zdsa` | Problems from Striver’s A2Z DSA course |
 | `random` | Ramdom problems solved from problems section |
+| `learntAlgorithms.md` | I have listed here all Algoritms that I came across till now |
 | `readme.md` | Info about this repo |
 
 > Only significant notes would be in the 'notes' folder, otherwise short notes will be in the code itself as comments.
@@ -35,4 +36,4 @@ For each problem:
 - [Striver’s A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/)
 
 > Created: 03-09-2025  
-> Last modification: 08-04-2026
+> Last modification: 13-04-2026
