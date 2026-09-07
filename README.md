@@ -14,11 +14,11 @@ This repository documents my LeetCode journey — problem by problem.
 | Folder | Description |
 |--------|--------------|
 | `leetcodeBeginnerGuide` | The LeetCode's Beginner's Guide from the Explore section of LeetCode |
-| `notes` | General conceptual notes |
 | `programmingSkills_StudyPlan` | The LeetCode's Study Plan - Programming Skills |
 | `striverA2Zdsa` | Problems from Striver’s A2Z DSA course |
 | `random` | Ramdom problems solved from problems section |
 | `learntAlgorithms.md` | I have listed here all Algoritms that I came across till now |
+| `notes.md` | General conceptual notes |
 | `readme.md` | Info about this repo |
 
 > Only significant notes would be in the 'notes' folder, otherwise short notes will be in the code itself as comments.
